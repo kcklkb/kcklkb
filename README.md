@@ -1,22 +1,20 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&text=CHANGGYU%20KIM&fontColor=ffffff&fontSize=60" />
 </div>
-    
 
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;">
-        <img src="https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white">
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-        <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
-        <img src="https://img.shields.io/badge/Elasticsearch-F7DF1E?style=for-the-badge&logo=Elasticsearch&logoColor=white">
-        <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white">
-        <img src="https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=kibana&logoColor=white">
-        <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=kibana&logoColor=white">
-        <img src="https://img.shields.io/badge/Mobaxterm-525252?style=for-the-badge&logo=kibana&logoColor=white">
-        <br/>
-    </div>
-</div>
+## 🛠️ Tech Stacks
+
+### 💻 Tech
+![Java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+
+### 🧰 Tools
+![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=DBeaver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-F7DF1E?style=for-the-badge&logo=Elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
 <br>
 
