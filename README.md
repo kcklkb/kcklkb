@@ -22,7 +22,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📈 GitHub Activity </h2> <br> 
     <div style="margin: ; text-align: left;">
         <img src="https://github-readme-stats.vercel.app/api?username=kcklkb&show_icons=true&count_private=true" alt="GitHub Stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcklkb&layout=compact" alt="Most Used Languages">
         <br/>
     </div>
 </div>
