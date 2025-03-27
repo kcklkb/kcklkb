@@ -83,5 +83,57 @@
                 <a href="https://github.com/kcklkb/Card-Data-Analytics.git">🔗 View Repository</a>
             </td>
         </tr>
+        <tr>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">05</td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                <a href="https://github.com/kcklkb/docker-jar">🐳 도커 이미지화 프로젝트 최적화</a>
+            </td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                Spring Boot 애플리케이션을 Docker 환경에서 실행할 수 있도록 도커 이미지로 변환하고, Docker Hub에 업로드. 
+                Docker의 기본 개념부터 이미지화, 최적화, 컨테이너 실행까지의 과정을 진행.
+            </td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                <a href="https://github.com/kcklkb/docker-jar">🔗 View Repository</a>
+            </td>
+            </tr>
+            <tr style="background-color: #f9f9f9;">
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">06</td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+            <a href="https://github.com/Jenkins-infra-linux/JenkinsInfra">📊 서버 부하 체크 프로젝트</a>
+            </td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                Jenkins를 사용하여 매 1분마다 서버의 uptime 정보를 확인하고, 이를 기반으로 서버의 부하 상태를 실시간으로 체크. 
+                로그 파일에 부하 정보를 기록하여, 서버 상태를 지속적으로 모니터링.
+            </td>
+                <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                <a href="https://github.com/Jenkins-infra-linux/JenkinsInfra">🔗 View Repository</a>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">07</td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+            <a href="https://github.com/Jenkins-infra-linux/Orchestrator">⚙️ Orchestrator</a>
+        </td>
+        <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+            Docker Compose 및 스크립트를 활용하여 컨테이너를 효율적으로 관리하는 프로젝트. 
+            MySQL DB 이중화 및 데이터 백업 자동화를 구현하여 서비스 가용성을 확보.
+        </td>
+         <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+            <a href="https://github.com/Jenkins-infra-linux/Orchestrator">🔗 View Repository</a>
+        </td>
+        </tr>
+        <tr style="background-color: #f9f9f9;">
+        <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">08</td>
+        <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+        <a href="https://github.com/Jenkins-infra-linux/jenkins-scp-cicd-practice">🚀 Jenkins SCP CICD Practice</a>
+         </td>
+        <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+        GitHub Webhook과 Ngrok을 활용하여 Jenkins가 GitHub의 코드 변경 사항을 자동으로 감지하고 빌드를 수행하도록 설정한 프로젝트. 
+        실시간으로 자동 빌드 및 배포가 이루어지는 DevOps 환경을 구성.
+        </td>
+        <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+        <a href="https://github.com/Jenkins-infra-linux/jenkins-scp-cicd-practice">🔗 View Repository</a>
+        </td>
+        </tr>
     </table>
 </div>
