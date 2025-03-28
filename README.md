@@ -133,5 +133,18 @@
                 <a href="https://github.com/Jenkins-infra-linux/jenkins-scp-cicd-practice">🔗 View Repository</a>
             </td>
         </tr>
+        <tr style="background-color: #f9f9f9;">
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">09</td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                ☸️ Kubernetes 기반 Java 애플리케이션 배포
+            </td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                이 프로젝트는 Java 애플리케이션 이미지를 생성하고 Docker Hub에 업로드 후 Kubernetes 환경에서 배포하고 관리하는 실습을 수행합니다.
+                Minikube 환경에서 Deployment 및 LoadBalancer 서비스, NodePort 서비스를 이용하여 컨테이너화된 애플리케이션을 외부에서 접근할 수 있도록 구성합니다.
+            </td>
+            <td style="padding: 15px; text-align: center; border: 1px solid #ddd;">
+                <a href="https://github.com/kcklkb/Kubernetes-javaapp">🔗 View Repository</a>
+            </td>
+        </tr>
     </table>
 </div>
